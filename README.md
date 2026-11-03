@@ -47,7 +47,7 @@ Multiple linear regression on the test set: MSE = 0.0049, MAE = 0.057
 
 ## How to run
 ```bash
-git clone <your-repo-link>
+git clone https://github.com/superiorshree/Sleep-efficiency-regression.git
 cd sleep-efficiency-regression
 pip install -r requirements.txt
 jupyter notebook sleep_efficiency_regression.ipynb
