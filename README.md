@@ -57,4 +57,10 @@ Run all cells. The last cell asks for input (age, gender, sleep duration and so 
 
 Submitted to: [@complexiota](https://github.com/complexiota)
 ## Author
-Shreeyansh Mahamuni
+Student Name: Shreeyansh Mahamuni
+
+Roll Number: AD3231
+
+Course: Artificial Intelligence and Data Science
+
+Activity: Activity 1 – Regression Algorithms
