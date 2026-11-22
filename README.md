@@ -53,6 +53,10 @@ pip install -r requirements.txt
 jupyter notebook sleep_efficiency_regression.ipynb
 ```
 Run all cells. The last cell asks for input (age, gender, sleep duration and so on) and prints the predicted sleep efficiency.
+```
+## GitHub Submission
 
+Submitted to: [@complexiota](https://github.com/complexiota)
+```
 ## Author
 Shreeyansh Mahamuni
